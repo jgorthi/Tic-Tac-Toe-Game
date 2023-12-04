@@ -1,6 +1,6 @@
-# tic_tac_toe
+# Tic-Tac-Toe Game
 
-> An open source Tic-Tac-Toe game, developed using Flutter framework.
+> An open-source Tic-Tac-Toe game developed using the Flutter framework. Feel free to clone and do pull requests.
 
 ## Screenshots
 
