@@ -1,0 +1,31 @@
+name: Tic_Tac_Toe
+description: A Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  font_awesome_flutter: ^9.1.0
+  page_transition: ^2.0.2
+  get: ^4.3.0
+  google_fonts: ^2.1.0
+  flutter_spinkit: "^4.1.2"
+  vector_math: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # logo
+     - assets/images/logo.png
